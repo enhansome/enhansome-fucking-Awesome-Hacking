@@ -1,29 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Awesome Repositories"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Other Useful Repositories"
-    },
-    {
-      "description": "Please have a look at contributing.md",
-      "items": [],
-      "title": "Contributions"
-    },
-    {
-      "description": "118531⭐ 10657🍴 Hack-with-Github/Awesome-Hacking)",
-      "items": [],
-      "title": "Source"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T22:35:22.109Z",
+    "last_updated": "2026-08-19T12:28:06.894Z",
     "original_repository": "Correia-jpv/fucking-Awesome-Hacking",
+    "original_repository_id": 516438069,
     "original_repository_sha": "73c202f1762ab6af8535133d9e0470ddd7707806",
     "enhanced_repository": "enhansome/enhansome-fucking-Awesome-Hacking",
     "enhanced_repository_description": null,
