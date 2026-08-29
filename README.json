@@ -214,7 +214,7 @@
             "open_issues": 2,
             "owner": "brootware",
             "repo": "awesome-cyber-security-university",
-            "stars": 3391,
+            "stars": 3393,
             "topics": [
               "awesome",
               "awesome-list",
@@ -728,7 +728,7 @@
             "open_issues": 9,
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28633,
+            "stars": 28639,
             "topics": [
               "awesome-list",
               "osint",
@@ -1148,7 +1148,7 @@
             "open_issues": 5,
             "owner": "The-Art-of-Hacking",
             "repo": "h4cker",
-            "stars": 29175,
+            "stars": 29176,
             "topics": [
               "ai",
               "ai-security",
@@ -1662,7 +1662,7 @@
             "open_issues": 92,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395482,
+            "stars": 395484,
             "topics": [
               "books",
               "education",
@@ -2275,7 +2275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:39:51.339Z",
+    "last_updated": "2026-08-29T04:52:13.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of various awesome lists for hackers, pentesters and security researchers. With repository stars⭐ and forks🍴",
