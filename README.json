@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "9702⭐ 1576🍴 Android Security",
+          "title": "9705⭐ 1576🍴 Android Security",
           "description": ") Collection of Android security related resources",
           "children": [],
           "repo_info": {
@@ -15,11 +15,11 @@
             "id": 22117770,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T06:04:24Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-22T04:19:19Z",
+            "open_issues": 0,
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9703,
+            "stars": 9705,
             "topics": [
               "android",
               "awesome",
@@ -32,7 +32,7 @@
         },
         {
           "node_type": "item",
-          "title": "7062⭐ 804🍴 AppSec",
+          "title": "7062⭐ 805🍴 AppSec",
           "description": ") Resources for learning about application security",
           "children": [],
           "repo_info": {
@@ -46,7 +46,7 @@
             "open_issues": 42,
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 7062,
+            "stars": 7063,
             "topics": [
               "application-security",
               "curated",
@@ -60,7 +60,7 @@
         },
         {
           "node_type": "item",
-          "title": "2850⭐ 428🍴 Asset Discovery",
+          "title": "2851⭐ 428🍴 Asset Discovery",
           "description": ") List of resources which help during asset discovery phase of a security assessment engagement",
           "children": [],
           "repo_info": {
@@ -74,7 +74,7 @@
             "open_issues": 20,
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2851,
+            "stars": 2852,
             "topics": [
               "asset-discovery",
               "awesome-list",
@@ -88,7 +88,7 @@
         },
         {
           "node_type": "item",
-          "title": "5910⭐ 1081🍴 Bug Bounty",
+          "title": "5911⭐ 1081🍴 Bug Bounty",
           "description": ") List of Bug Bounty Programs and write-ups from the Bug Bounty hunters",
           "children": [],
           "repo_info": {
@@ -109,7 +109,7 @@
         },
         {
           "node_type": "item",
-          "title": "4033⭐ 674🍴 Cellular Hacking",
+          "title": "4035⭐ 674🍴 Cellular Hacking",
           "description": ") This is a list of hacking research in the 3G/4G/5G cellular security space.",
           "children": [],
           "repo_info": {
@@ -139,7 +139,7 @@
         },
         {
           "node_type": "item",
-          "title": "631⭐ 58🍴 CI/CD Attacks",
+          "title": "631⭐ 59🍴 CI/CD Attacks",
           "description": ") Offensive research of CI/CD systems and deployment processes",
           "children": [],
           "repo_info": {
@@ -150,7 +150,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-06-02T07:49:50Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "TupleType",
             "repo": "awesome-cicd-attacks",
             "stars": 631,
@@ -174,7 +174,7 @@
         },
         {
           "node_type": "item",
-          "title": "11861⭐ 1621🍴 CTF",
+          "title": "11861⭐ 1622🍴 CTF",
           "description": ") List of CTF frameworks, libraries, resources and softwares",
           "children": [],
           "repo_info": {
@@ -188,7 +188,7 @@
             "open_issues": 67,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11861,
+            "stars": 11862,
             "topics": [
               "awesome",
               "ctf",
@@ -200,7 +200,7 @@
         },
         {
           "node_type": "item",
-          "title": "3546⭐ 344🍴 Cyber Security University",
+          "title": "3555⭐ 347🍴 Cyber Security University",
           "description": ") Free educational resources that focus on learning cybersecurity by doing",
           "children": [],
           "repo_info": {
@@ -214,7 +214,7 @@
             "open_issues": 4,
             "owner": "brootware",
             "repo": "awesome-cyber-security-university",
-            "stars": 3554,
+            "stars": 3563,
             "topics": [
               "awesome",
               "awesome-list",
@@ -233,7 +233,7 @@
         },
         {
           "node_type": "item",
-          "title": "4680⭐ 540🍴 Cyber Skills",
+          "title": "4687⭐ 540🍴 Cyber Skills",
           "description": ") Curated list of hacking environments where you can train your cyber skills legally and safely",
           "children": [],
           "repo_info": {
@@ -247,14 +247,14 @@
             "open_issues": 0,
             "owner": "joe-shenouda",
             "repo": "awesome-cyber-skills",
-            "stars": 4687,
+            "stars": 4688,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:21.882Z"
         },
         {
           "node_type": "item",
-          "title": "2424⭐ 261🍴 Cybersources",
+          "title": "2427⭐ 261🍴 Cybersources",
           "description": ") A collection of all types of tools and resources for cybersecurity",
           "children": [],
           "repo_info": {
@@ -279,7 +279,7 @@
         },
         {
           "node_type": "item",
-          "title": "1343⭐ 150🍴 Detection Engineering",
+          "title": "1346⭐ 150🍴 Detection Engineering",
           "description": ") Resources for designing, building, and operating detective cybersecurity controls",
           "children": [],
           "repo_info": {
@@ -293,7 +293,7 @@
             "open_issues": 12,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1345,
+            "stars": 1346,
             "topics": [
               "awesome",
               "awesome-list",
@@ -308,7 +308,7 @@
         },
         {
           "node_type": "item",
-          "title": "5477⭐ 1224🍴 DevSecOps",
+          "title": "5476⭐ 1226🍴 DevSecOps",
           "description": ") List of awesome DevSecOps tools with the help from community experiments and contributions",
           "children": [],
           "repo_info": {
@@ -322,7 +322,7 @@
             "open_issues": 91,
             "owner": "devsecops",
             "repo": "awesome-devsecops",
-            "stars": 5476,
+            "stars": 5478,
             "topics": [
               "devops",
               "devsecops",
@@ -334,7 +334,7 @@
         },
         {
           "node_type": "item",
-          "title": "173⭐ 33🍴 Drone Hacking",
+          "title": "174⭐ 34🍴 Drone Hacking",
           "description": ") List of Drone hacking tools and resources",
           "children": [],
           "repo_info": {
@@ -364,7 +364,7 @@
         },
         {
           "node_type": "item",
-          "title": "2448⭐ 292🍴 Embedded and IoT Security",
+          "title": "2450⭐ 292🍴 Embedded and IoT Security",
           "description": ") A curated list of awesome resources about embedded and IoT security",
           "children": [],
           "repo_info": {
@@ -419,7 +419,7 @@
         },
         {
           "node_type": "item",
-          "title": "17101⭐ 1720🍴 Hacking",
+          "title": "17109⭐ 1720🍴 Hacking",
           "description": ") List of awesome Hacking tutorials, tools and resources",
           "children": [],
           "repo_info": {
@@ -430,10 +430,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2024-06-02T22:40:13Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 17108,
+            "stars": 17116,
             "topics": [
               "awesome",
               "hacking"
@@ -443,7 +443,7 @@
         },
         {
           "node_type": "item",
-          "title": "10563⭐ 1377🍴 Honeypots",
+          "title": "10565⭐ 1379🍴 Honeypots",
           "description": ") List of honeypot resources",
           "children": [],
           "repo_info": {
@@ -470,7 +470,7 @@
         },
         {
           "node_type": "item",
-          "title": "9398⭐ 1745🍴 Incident Response",
+          "title": "9401⭐ 1747🍴 Incident Response",
           "description": ") List of tools for incident response",
           "children": [],
           "repo_info": {
@@ -484,7 +484,7 @@
             "open_issues": 82,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9401,
+            "stars": 9403,
             "topics": [
               "awesome",
               "awesome-list",
@@ -500,7 +500,7 @@
         },
         {
           "node_type": "item",
-          "title": "2019⭐ 487🍴 Industrial Control System Security",
+          "title": "2021⭐ 487🍴 Industrial Control System Security",
           "description": ") List of resources related to Industrial Control System (ICS) security",
           "children": [],
           "repo_info": {
@@ -528,7 +528,7 @@
         },
         {
           "node_type": "item",
-          "title": "5747⭐ 748🍴 InfoSec",
+          "title": "5749⭐ 748🍴 InfoSec",
           "description": ") List of awesome infosec courses and training resources",
           "children": [],
           "repo_info": {
@@ -542,7 +542,7 @@
             "open_issues": 18,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5749,
+            "stars": 5751,
             "topics": [
               "awesome",
               "courses",
@@ -609,7 +609,7 @@
         },
         {
           "node_type": "item",
-          "title": "14202⭐ 2693🍴 Malware Analysis",
+          "title": "14211⭐ 2694🍴 Malware Analysis",
           "description": ") List of awesome malware analysis tools and resources",
           "children": [],
           "repo_info": {
@@ -623,7 +623,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14209,
+            "stars": 14215,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -681,7 +681,7 @@
         },
         {
           "node_type": "item",
-          "title": "3039⭐ 311🍴 Node.js Security",
+          "title": "3040⭐ 312🍴 Node.js Security",
           "description": ") Curated list of tools, security incidents and other resources around Node.js security",
           "children": [],
           "repo_info": {
@@ -714,7 +714,7 @@
         },
         {
           "node_type": "item",
-          "title": "29647⭐ 4039🍴 OSINT",
+          "title": "29677⭐ 4047🍴 OSINT",
           "description": ") List of amazingly awesome Open Source Intelligence (OSINT) tools and resources",
           "children": [],
           "repo_info": {
@@ -725,10 +725,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T20:56:00Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 29670,
+            "stars": 29687,
             "topics": [
               "awesome-list",
               "osint",
@@ -768,7 +768,7 @@
         },
         {
           "node_type": "item",
-          "title": "1086⭐ 93🍴 Password Cracking",
+          "title": "1088⭐ 93🍴 Password Cracking",
           "description": ") Tools and resources for recovering passwords",
           "children": [],
           "repo_info": {
@@ -804,7 +804,7 @@
         },
         {
           "node_type": "item",
-          "title": "3426⭐ 479🍴 Pcaptools",
+          "title": "3427⭐ 479🍴 Pcaptools",
           "description": ") Collection of tools developed by researchers in the Computer Science area to process network traces",
           "children": [],
           "repo_info": {
@@ -825,7 +825,7 @@
         },
         {
           "node_type": "item",
-          "title": "27242⭐ 4950🍴 Pentest",
+          "title": "27256⭐ 4957🍴 Pentest",
           "description": ") List of awesome penetration testing resources, tools and other shiny things",
           "children": [],
           "repo_info": {
@@ -839,7 +839,7 @@
             "open_issues": 122,
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 27255,
+            "stars": 27265,
             "topics": [
               "awesome",
               "awesome-list"
@@ -849,7 +849,7 @@
         },
         {
           "node_type": "item",
-          "title": "32697⭐ 5139🍴 PHP Security",
+          "title": "32704⭐ 5141🍴 PHP Security",
           "description": ") Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities",
           "children": [],
           "repo_info": {
@@ -863,7 +863,7 @@
             "open_issues": 92,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32703,
+            "stars": 32705,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -878,7 +878,7 @@
         },
         {
           "node_type": "item",
-          "title": "629⭐ 123🍴 Prompt Injection",
+          "title": "631⭐ 124🍴 Prompt Injection",
           "description": ") Prompt injection vulnerabilities targeting AI and LLM systems",
           "children": [],
           "repo_info": {
@@ -892,7 +892,7 @@
             "open_issues": 6,
             "owner": "Joe-B-Security",
             "repo": "awesome-prompt-injection",
-            "stars": 630,
+            "stars": 631,
             "topics": [
               "awesome",
               "awesome-list"
@@ -902,7 +902,7 @@
         },
         {
           "node_type": "item",
-          "title": "554⭐ 53🍴 Real-time Communications hacking & pentesting resources",
+          "title": "553⭐ 53🍴 Real-time Communications hacking & pentesting resources",
           "description": ") Covers VoIP, WebRTC and VoLTE security related topics",
           "children": [],
           "repo_info": {
@@ -937,7 +937,7 @@
         },
         {
           "node_type": "item",
-          "title": "10726⭐ 2377🍴 Red Teaming Toolkit",
+          "title": "10731⭐ 2376🍴 Red Teaming Toolkit",
           "description": ") Cutting-edge open-source security tools (OST) for red teamers and threat hunters",
           "children": [],
           "repo_info": {
@@ -951,7 +951,7 @@
             "open_issues": 8,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10729,
+            "stars": 10731,
             "topics": [
               "hacking",
               "infosec",
@@ -1031,7 +1031,7 @@
         },
         {
           "node_type": "item",
-          "title": "73626⭐ 25124🍴 SecLists",
+          "title": "73662⭐ 25121🍴 SecLists",
           "description": ") Collection of multiple types of lists used during security assessments",
           "children": [],
           "repo_info": {
@@ -1041,18 +1041,18 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-21T11:16:46Z",
+            "last_commit": "2026-09-22T11:15:55Z",
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73657,
+            "stars": 73673,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:21.882Z"
         },
         {
           "node_type": "item",
-          "title": "14872⭐ 2401🍴 Security",
+          "title": "14877⭐ 2403🍴 Security",
           "description": ") Collection of awesome software, libraries, documents, books, resources and cools stuffs about security",
           "children": [],
           "repo_info": {
@@ -1063,10 +1063,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
-            "open_issues": 338,
+            "open_issues": 340,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14876,
+            "stars": 14880,
             "topics": [
               "awesome-list",
               "security"
@@ -1076,7 +1076,7 @@
         },
         {
           "node_type": "item",
-          "title": "4266⭐ 504🍴 Social Engineering",
+          "title": "4267⭐ 504🍴 Social Engineering",
           "description": ") List of awesome social engineering resources",
           "children": [],
           "repo_info": {
@@ -1090,7 +1090,7 @@
             "open_issues": 11,
             "owner": "giuliacassara",
             "repo": "awesome-social-engineering",
-            "stars": 4266,
+            "stars": 4268,
             "topics": [
               "awesome-list",
               "infosec",
@@ -1103,7 +1103,7 @@
         },
         {
           "node_type": "item",
-          "title": "14789⭐ 1512🍴 Static Analysis",
+          "title": "14797⭐ 1514🍴 Static Analysis",
           "description": ") List of static analysis tools, linters and code quality checkers for various programming languages",
           "children": [],
           "repo_info": {
@@ -1117,7 +1117,7 @@
             "open_issues": 0,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14796,
+            "stars": 14798,
             "topics": [
               "analysis",
               "awesome-list",
@@ -1134,7 +1134,7 @@
         },
         {
           "node_type": "item",
-          "title": "29478⭐ 5368🍴 The Art of Hacking Series",
+          "title": "29497⭐ 5371🍴 The Art of Hacking Series",
           "description": ") List of resources includes thousands of cybersecurity-related references and resources",
           "children": [],
           "repo_info": {
@@ -1148,7 +1148,7 @@
             "open_issues": 1,
             "owner": "The-Art-of-Hacking",
             "repo": "h4cker",
-            "stars": 29493,
+            "stars": 29506,
             "topics": [
               "ai",
               "ai-security",
@@ -1176,7 +1176,7 @@
         },
         {
           "node_type": "item",
-          "title": "10659⭐ 1828🍴 Threat Intelligence",
+          "title": "10665⭐ 1828🍴 Threat Intelligence",
           "description": ") List of Awesome Threat Intelligence resources",
           "children": [],
           "repo_info": {
@@ -1190,7 +1190,7 @@
             "open_issues": 139,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10665,
+            "stars": 10671,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1202,7 +1202,7 @@
         },
         {
           "node_type": "item",
-          "title": "4631⭐ 732🍴 Vehicle Security",
+          "title": "4640⭐ 732🍴 Vehicle Security",
           "description": ") List of resources for learning about vehicle security and car hacking",
           "children": [],
           "repo_info": {
@@ -1216,7 +1216,7 @@
             "open_issues": 5,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4637,
+            "stars": 4641,
             "topics": [
               "automotive",
               "awesome",
@@ -1236,7 +1236,7 @@
         },
         {
           "node_type": "item",
-          "title": "7272⭐ 1361🍴 Web Hacking",
+          "title": "7272⭐ 1362🍴 Web Hacking",
           "description": ") List of web application security",
           "children": [],
           "repo_info": {
@@ -1247,10 +1247,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-18T02:51:45Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "infoslack",
             "repo": "awesome-web-hacking",
-            "stars": 7272,
+            "stars": 7275,
             "topics": [
               "appsec",
               "hacking",
@@ -1271,7 +1271,7 @@
         },
         {
           "node_type": "item",
-          "title": "1621⭐ 253🍴 Web3 Security",
+          "title": "1622⭐ 253🍴 Web3 Security",
           "description": ") A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.",
           "children": [],
           "repo_info": {
@@ -1285,7 +1285,7 @@
             "open_issues": 16,
             "owner": "Anugrahsr",
             "repo": "Awesome-web3-Security",
-            "stars": 1622,
+            "stars": 1623,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:21.882Z"
@@ -1306,7 +1306,7 @@
             "open_issues": 1,
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4273,
+            "stars": 4274,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1365,8 +1365,8 @@
             "id": 470281516,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-21T19:15:03Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-22T11:58:23Z",
+            "open_issues": 1,
             "owner": "jacobdjwilson",
             "repo": "awesome-annual-security-reports",
             "stars": 1202,
@@ -1384,7 +1384,7 @@
         },
         {
           "node_type": "item",
-          "title": "23319⭐ 2648🍴 API Security Checklist",
+          "title": "23323⭐ 2648🍴 API Security Checklist",
           "description": ") Checklist of the most important security countermeasures when designing, testing, and releasing your API",
           "children": [],
           "repo_info": {
@@ -1398,7 +1398,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23322,
+            "stars": 23323,
             "topics": [
               "api",
               "jwt",
@@ -1410,7 +1410,7 @@
         },
         {
           "node_type": "item",
-          "title": "3673⭐ 870🍴 APT Notes",
+          "title": "3673⭐ 869🍴 APT Notes",
           "description": ") Various public documents, whitepapers and articles about APT campaigns",
           "children": [],
           "repo_info": {
@@ -1431,7 +1431,7 @@
         },
         {
           "node_type": "item",
-          "title": "4268⭐ 1021🍴 Bug Bounty Reference",
+          "title": "4270⭐ 1021🍴 Bug Bounty Reference",
           "description": ") List of bug bounty write-up that is categorized by the bug nature",
           "children": [],
           "repo_info": {
@@ -1466,7 +1466,7 @@
             "open_issues": 8,
             "owner": "R3dy",
             "repo": "capsulecorp-pentest",
-            "stars": 1009,
+            "stars": 1011,
             "topics": [
               "ansible",
               "ethical-hacking",
@@ -1481,7 +1481,7 @@
         },
         {
           "node_type": "item",
-          "title": "7121⭐ 781🍴 Cryptography",
+          "title": "7124⭐ 780🍴 Cryptography",
           "description": ") Cryptography resources and tools",
           "children": [],
           "repo_info": {
@@ -1495,7 +1495,7 @@
             "open_issues": 75,
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7124,
+            "stars": 7125,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1509,7 +1509,7 @@
         },
         {
           "node_type": "item",
-          "title": "8074⭐ 976🍴 CVE PoC",
+          "title": "8077⭐ 976🍴 CVE PoC",
           "description": ") List of CVE Proof of Concepts (PoCs) updated daily by Trickest 🌎 CyberChef A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages.",
           "children": [],
           "repo_info": {
@@ -1519,11 +1519,11 @@
             "id": 454015416,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-21T12:37:58Z",
+            "last_commit": "2026-09-22T12:28:09Z",
             "open_issues": 21,
             "owner": "trickest",
             "repo": "cve",
-            "stars": 8077,
+            "stars": 8081,
             "topics": [
               "cve",
               "cve-poc",
@@ -1548,7 +1548,7 @@
         },
         {
           "node_type": "item",
-          "title": "5025⭐ 1009🍴 Detection Lab",
+          "title": "5027⭐ 1009🍴 Detection Lab",
           "description": ") Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices",
           "children": [],
           "repo_info": {
@@ -1584,7 +1584,7 @@
         },
         {
           "node_type": "item",
-          "title": "1619⭐ 140🍴 Executable Packing",
+          "title": "1621⭐ 140🍴 Executable Packing",
           "description": ") Resources about executable packing and unpacking",
           "children": [],
           "repo_info": {
@@ -1598,7 +1598,7 @@
             "open_issues": 1,
             "owner": "packing-box",
             "repo": "awesome-executable-packing",
-            "stars": 1620,
+            "stars": 1622,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1620,7 +1620,7 @@
         },
         {
           "node_type": "item",
-          "title": "5189⭐ 773🍴 Forensics",
+          "title": "5190⭐ 773🍴 Forensics",
           "description": ") List of awesome forensic analysis tools and resources",
           "children": [],
           "repo_info": {
@@ -1634,7 +1634,7 @@
             "open_issues": 13,
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5190,
+            "stars": 5191,
             "topics": [
               "computer-forensics",
               "dfir",
@@ -1648,7 +1648,7 @@
         },
         {
           "node_type": "item",
-          "title": "397281⭐ 66801🍴 Free Programming Books",
+          "title": "397411⭐ 66812🍴 Free Programming Books",
           "description": ") Free programming books for developers 🌎 GTFOBins A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions",
           "children": [],
           "repo_info": {
@@ -1658,11 +1658,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-15T15:54:40Z",
-            "open_issues": 82,
+            "last_commit": "2026-09-22T12:40:54Z",
+            "open_issues": 81,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 397378,
+            "stars": 397465,
             "topics": [
               "books",
               "education",
@@ -1675,7 +1675,7 @@
         },
         {
           "node_type": "item",
-          "title": "14549⭐ 2662🍴 Hacker101",
+          "title": "14550⭐ 2663🍴 Hacker101",
           "description": ") A free class for web security by HackerOne",
           "children": [],
           "repo_info": {
@@ -1738,7 +1738,7 @@
         },
         {
           "node_type": "item",
-          "title": "5994⭐ 1230🍴 Infosec Reference",
+          "title": "5996⭐ 1231🍴 Infosec Reference",
           "description": ") Information Security Reference That Doesn't Suck",
           "children": [],
           "repo_info": {
@@ -1806,7 +1806,7 @@
         },
         {
           "node_type": "item",
-          "title": "6639⭐ 1080🍴 Linux Kernel Exploitation",
+          "title": "6642⭐ 1080🍴 Linux Kernel Exploitation",
           "description": ") A bunch of links related to Linux kernel fuzzing and exploitation",
           "children": [],
           "repo_info": {
@@ -1817,7 +1817,7 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-10T20:03:31Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "xairy",
             "repo": "linux-kernel-exploitation",
             "stars": 6642,
@@ -1833,7 +1833,7 @@
         },
         {
           "node_type": "item",
-          "title": "9392⭐ 1946🍴 Machine Learning for Cyber Security",
+          "title": "9393⭐ 1945🍴 Machine Learning for Cyber Security",
           "description": ") Curated list of tools and resources related to the use of machine learning for cyber security",
           "children": [],
           "repo_info": {
@@ -1847,7 +1847,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9393,
+            "stars": 9394,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -1859,7 +1859,7 @@
         },
         {
           "node_type": "item",
-          "title": "3980⭐ 987🍴 Payloads",
+          "title": "3983⭐ 987🍴 Payloads",
           "description": ") Collection of web attack payloads",
           "children": [],
           "repo_info": {
@@ -1891,7 +1891,7 @@
         },
         {
           "node_type": "item",
-          "title": "80987⭐ 17384🍴 PayloadsAllTheThings",
+          "title": "81070⭐ 17391🍴 PayloadsAllTheThings",
           "description": ") List of useful payloads and bypass for Web Application Security and Pentest/CTF",
           "children": [],
           "repo_info": {
@@ -1905,7 +1905,7 @@
             "open_issues": 36,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 81044,
+            "stars": 81120,
             "topics": [
               "bounty",
               "bugbounty",
@@ -1955,7 +1955,7 @@
         },
         {
           "node_type": "item",
-          "title": "9352⭐ 1613🍴 Probable Wordlists",
+          "title": "9354⭐ 1613🍴 Probable Wordlists",
           "description": ") Wordlists sorted by probability originally created for password generation and testing",
           "children": [],
           "repo_info": {
@@ -1969,7 +1969,7 @@
             "open_issues": 21,
             "owner": "berzerk0",
             "repo": "Probable-Wordlists",
-            "stars": 9354,
+            "stars": 9355,
             "topics": [
               "dictionary",
               "dictionary-attack",
@@ -1983,7 +1983,7 @@
         },
         {
           "node_type": "item",
-          "title": "607⭐ 74🍴 Red Team Physical Tools",
+          "title": "608⭐ 74🍴 Red Team Physical Tools",
           "description": ") Curated list of tools for physical security, red teaming, and tactical covert entry",
           "children": [],
           "repo_info": {
@@ -1997,7 +1997,7 @@
             "open_issues": 0,
             "owner": "DavidProbinsky",
             "repo": "RedTeam-Physical-Tools",
-            "stars": 607,
+            "stars": 608,
             "topics": [
               "edc",
               "ethicalhacking",
@@ -2015,7 +2015,7 @@
         },
         {
           "node_type": "item",
-          "title": "2726⭐ 350🍴 Reverse Engineering",
+          "title": "2729⭐ 350🍴 Reverse Engineering",
           "description": ") List of Reverse Engineering articles, books, and papers",
           "children": [],
           "repo_info": {
@@ -2029,14 +2029,14 @@
             "open_issues": 1,
             "owner": "onethawt",
             "repo": "reverseengineering-reading-list",
-            "stars": 2728,
+            "stars": 2729,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:21.882Z"
         },
         {
           "node_type": "item",
-          "title": "1729⭐ 334🍴 RFSec-ToolKit",
+          "title": "1730⭐ 334🍴 RFSec-ToolKit",
           "description": ") Collection of Radio Frequency Communication Protocol Hacktools",
           "children": [],
           "repo_info": {
@@ -2050,7 +2050,7 @@
             "open_issues": 1,
             "owner": "cn0xroot",
             "repo": "RFSec-ToolKit",
-            "stars": 1730,
+            "stars": 1731,
             "topics": [
               "bladerf",
               "communication",
@@ -2070,7 +2070,7 @@
         },
         {
           "node_type": "item",
-          "title": "33228⭐ 4628🍴 Security Cheatsheets",
+          "title": "33271⭐ 4638🍴 Security Cheatsheets",
           "description": ") OWASP Cheat Sheet Series for application security",
           "children": [],
           "repo_info": {
@@ -2080,11 +2080,11 @@
             "id": 162723104,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-21T18:13:46Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-22T21:05:24Z",
+            "open_issues": 57,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33269,
+            "stars": 33280,
             "topics": [
               "application-security",
               "appsec",
@@ -2099,7 +2099,7 @@
         },
         {
           "node_type": "item",
-          "title": "37645⭐ 2556🍴 Shell",
+          "title": "37660⭐ 2557🍴 Shell",
           "description": ") List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell",
           "children": [],
           "repo_info": {
@@ -2110,10 +2110,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:40:51Z",
-            "open_issues": 186,
+            "open_issues": 187,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37658,
+            "stars": 37661,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2129,7 +2129,7 @@
         },
         {
           "node_type": "item",
-          "title": "246⭐ 22🍴 Suricata",
+          "title": "247⭐ 22🍴 Suricata",
           "description": ") Suricata IDS/IPS and network security monitoring resources",
           "children": [],
           "repo_info": {
@@ -2158,7 +2158,7 @@
         },
         {
           "node_type": "item",
-          "title": "4669⭐ 865🍴 ThreatHunter-Playbook",
+          "title": "4672⭐ 864🍴 ThreatHunter-Playbook",
           "description": ") A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns",
           "children": [],
           "repo_info": {
@@ -2172,7 +2172,7 @@
             "open_issues": 6,
             "owner": "OTRF",
             "repo": "ThreatHunter-Playbook",
-            "stars": 4672,
+            "stars": 4674,
             "topics": [
               "dfir",
               "hunter",
@@ -2216,7 +2216,7 @@
         },
         {
           "node_type": "item",
-          "title": "21253⭐ 4809🍴 Vulhub",
+          "title": "21262⭐ 4811🍴 Vulhub",
           "description": ") Pre-Built Vulnerable Environments Based on Docker-Compose",
           "children": [],
           "repo_info": {
@@ -2230,7 +2230,7 @@
             "open_issues": 53,
             "owner": "vulhub",
             "repo": "vulhub",
-            "stars": 21261,
+            "stars": 21264,
             "topics": [
               "docker",
               "docker-compose",
@@ -2243,7 +2243,7 @@
         },
         {
           "node_type": "item",
-          "title": "13813⭐ 1820🍴 Web Security",
+          "title": "13812⭐ 1820🍴 Web Security",
           "description": ") Curated list of Web Security materials and resources",
           "children": [],
           "repo_info": {
@@ -2257,7 +2257,7 @@
             "open_issues": 9,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13812,
+            "stars": 13816,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2275,7 +2275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:44:04.461Z",
+    "last_updated": "2026-09-23T00:21:13.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of various awesome lists for hackers, pentesters and security researchers. With repository stars⭐ and forks🍴",
@@ -2283,7 +2283,7 @@
       "id": 516438069,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-20T08:40:55Z",
+      "last_commit": "2026-09-22T08:43:34Z",
       "open_issues": 1,
       "owner": "Correia-jpv",
       "repo": "fucking-Awesome-Hacking",
@@ -2306,7 +2306,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "3f9d5863b549fd86ff1756e3708bc6430773d404",
+    "original_repository_sha": "4e232dab99dce235eba21abd045116cb21a5836f",
     "enhanced_repository": "enhansome/enhansome-fucking-Awesome-Hacking",
     "enhanced_repository_description": null,
     "title": "Awesome Hacking with stars"
